@@ -1,4 +1,4 @@
-# Solana Transactions Explained & How to Transfer SOL in Rust
+# Basic Solana Program Examples
 
 This repository contains the code used in these two Solana Tutorials Youtube videos:
 
