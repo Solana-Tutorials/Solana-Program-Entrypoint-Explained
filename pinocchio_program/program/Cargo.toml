@@ -1,0 +1,12 @@
+[package]
+name = "pinocchio_program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pinocchio = "0.7.1"
+
+
+[lib]
+name = "pinocchio_program"
+crate-type = ["cdylib", "lib"]

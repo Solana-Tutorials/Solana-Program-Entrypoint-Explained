@@ -1,0 +1,10 @@
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+solana-client = "2.1.11"
+solana-program = "2.1.11"
+solana-sdk = "2.1.11"
